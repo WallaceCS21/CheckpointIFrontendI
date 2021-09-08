@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Great Vibes', cursive;
+    background-image: url(/img/piata.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    color: black;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+header{
+    font-family: 'Permanent Marker', cursive;
+    padding: 18px;
+    color: #4f0d8d
+    
+}
+
+h1{
+    background-image: url(/img/bandeira.png);
+    background-repeat: no-repeat;
+    background-size: 4%;
+    background-position-x: 210px;
+    background-position-y: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    font-size:40px;
+
+
+}
+
+h2{
+    font-family: 'Permanent Marker', cursive;
+    text-transform: uppercase;
+    padding: 18px;
+    border-radius:10px;
+    width: 30%;
+    margin: 0 auto;
+    font-size: 30px;
+    background-color: rgba(112, 174, 182, 0.349);
+    color: #523333
+    
+}
+
+
+iframe{
+    width: 1280px;
+    height: 720px;
+       
+}
+
+.descricao{
+    font-size: 2em;
+        
+}
+
+.op{
+    background-color: rgba(112, 174, 182, 0.349);
+    text-align:center;
+    margin-right: 25px;
+    margin-left: 25px;
+    font-size: 20px;
+    background-color: hsla(219, 81%, 32%, 0.459);
+    color:blanchedalmond;
+    border-radius: 10px;
+    
+}
+
+
+
